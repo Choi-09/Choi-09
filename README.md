@@ -21,17 +21,12 @@
 - ⚡ Fun fact: ...
 -->
 
-
-
-
-<p>
+<p align = "center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Choi-09&show_icons=true&include_all_commits=true">
   &nbsp&nbsp&nbsp<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Choi-09&layout=compact">
 </p>
 
+<div align = "center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChoi-09%2F&count_bg=%23F37022&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-
-
-
-+ https://yermi.tistory.com/entry/%EA%BF%80%ED%8C%81-Github-Readme-%EC%98%88%EC%81%98%EA%B2%8C-%EA%BE%B8%EB%AF%B8%EA%B8%B0-Readme-Header-Badge-Widget-%EB%93%B1
+</div>
 
