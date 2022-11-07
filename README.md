@@ -13,6 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Let's%20Git%20It!&fontSize=90&section=footer)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Choi-09)](https://github.com/Choi-09/github-readme-stats)  
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={dalki7711})](https://solved.ac/{dalki7711})
+[![Choi-09's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choi-09)](https://github.com/Choi-09/github-readme-stats)
+
 
 + https://yermi.tistory.com/entry/%EA%BF%80%ED%8C%81-Github-Readme-%EC%98%88%EC%81%98%EA%B2%8C-%EA%BE%B8%EB%AF%B8%EA%B8%B0-Readme-Header-Badge-Widget-%EB%93%B1
