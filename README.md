@@ -23,7 +23,7 @@
 
 <p align = "center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Choi-09&show_icons=true&include_all_commits=true">
-  &nbsp&nbsp&nbsp<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Choi-09&layout=compact">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Choi-09&layout=compact">
 </p>
 
 <div align = "center">
