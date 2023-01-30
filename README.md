@@ -3,16 +3,18 @@
 <div align="center">
 🌱 I’m currently learning <br>
   <br>
+ <a href = https://github.com/Choi-09/MySQL> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
+<a href = https://github.com/Choi-09/Python> <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>
+<a href = https://github.com/Choi-09/R> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=#276DC3"/></a>
+<a href = https://github.com/Choi-09/Tensorflow> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"/></a>
+<a href = https://github.com/Choi-09/JupyterNB> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/></a> 
+    <br>
 <a href = https://github.com/Choi-09/Java> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> </a>
 <a href = https://github.com/Choi-09/FrondEnd> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/></a> 
 <a href = https://github.com/Choi-09/FrondEnd> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/></a> 
 <a href = https://github.com/Choi-09/ES6> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>
 <a href = https://github.com/Choi-09/React> <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"></a>
-<a href = https://github.com/Choi-09/MySQL> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
-<a href = https://github.com/Choi-09/Python> <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>
-<a href = https://github.com/Choi-09/R> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=#276DC3"/></a>
-<a href = https://github.com/Choi-09/Tensorflow> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"/></a>
-<a href = https://github.com/Choi-09/JupyterNB> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/></a>
+
 </div><br>
 
 ***
